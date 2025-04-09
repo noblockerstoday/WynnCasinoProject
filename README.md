@@ -14,6 +14,7 @@ JSONPlaceholder endpoints were taking from: https://jsonplaceholder.typicode.com
 - Pycharm editor
 
 ## Running Tests
-- I suggest running all tests in Headed mode for verifaction purposes
-- Navigate to File > Settings > Python Integrated Tools  > and set Default Test Runner to Pytest
+- I suggest running all tests in Headed mode for verification purposes
+- On project level, navigate to File > Settings > Python Integrated Tools  > and set Default Test Runner to Pytest
 - In .py test files, click Run > Modify Run Configuration > and add --headed as an Additional Argument 
+- Runs tests and don't forget to smile 
